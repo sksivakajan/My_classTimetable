@@ -43,6 +43,10 @@ Supported reminder types:
 ## 📸 Screenshots
 
 ![IMG_3717](https://github.com/user-attachments/assets/849110a1-c357-468f-aab3-72d78eefe38b)
+
+
+
+
 <img width="590" height="1278" alt="IMG_3710" src="https://github.com/user-attachments/assets/43661435-ee7b-4552-a1b0-5d5c40d56bce" />
 <img width="590" height="1278" alt="IMG_3707" src="https://github.com/user-attachments/assets/afe21fa0-3e2b-416e-bcab-71b5c73349b1" />
 <img width="590" height="1278" alt="IMG_3708" src="https://github.com/user-attachments/assets/34fe6e48-b019-4db1-833f-94888780ae4d" />
